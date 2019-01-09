@@ -1,4 +1,4 @@
-# IIITB-Mess-App
+# IIITB-Mess-App (THIS IS AN iOS app)
 
 #This readme.md is applicable to both versions of app in this repo
 ------------------------------------------------------------------------------------------------------------------------------
