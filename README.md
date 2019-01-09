@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 How to open the app: 
 
-After cloning the files to a Macbook with Xcode running on it open the folders and open the .xcodeproj files on Xcode
+After cloning the files to a Macbook with Xcode running on it, open the folders and open the .xcodeproj files with Xcode
 
 Turn the debugger on for both files to see the information getting stored in the database (version 1.1)
 and for appending the lists (version 1.0)
