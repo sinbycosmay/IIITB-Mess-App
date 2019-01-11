@@ -1,12 +1,3 @@
-//
-//  ViewController.swift
-//  Sequel Lite
-//
-//  Created by Kyle Lee on 7/16/17.
-//  Copyright © 2017 Kyle Lee. All rights reserved.
-//
-
-
 import UIKit
 import SQLite
 
