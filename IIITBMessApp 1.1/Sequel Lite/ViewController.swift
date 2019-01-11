@@ -1,3 +1,11 @@
+//
+//  ViewController.swift
+//  IIITBMessApp
+//
+//  Created by Tanmay Arora on 01/01/19.
+//  Copyright © 2019 Tanmay Arora. All rights reserved.
+//
+
 import UIKit
 import SQLite
 
