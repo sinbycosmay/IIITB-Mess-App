@@ -7,7 +7,7 @@ Version 1.0: https://www.youtube.com/watch?v=Hebk_TnfCbQ
 Version 1.1: https://www.youtube.com/watch?v=0NDq7tu1Js8
 
 
-#This readme.md is applicable to both versions of app in this repo
+#This readme.md is applicable to both versions of the app in this repo
 ------------------------------------------------------------------------------------------------------------------------------
 How to open the app: 
 
