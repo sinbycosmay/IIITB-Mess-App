@@ -1,4 +1,4 @@
-# IIITB-Mess-App (This is an iOS app)
+# IIITB-Mess-App (iOS)
 
 Youtube links to Demonstrations (of both versions) of my app(s):
 
